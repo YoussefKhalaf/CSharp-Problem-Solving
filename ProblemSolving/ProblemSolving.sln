@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Candies", "Candies\Candies.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Way Too Long Words", "Way Too Long Words\Way Too Long Words.csproj", "{E19F3CE5-AC30-4B08-8415-DE1C8F7D64D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petya and Strings", "Petya and Strings\Petya and Strings.csproj", "{CBE7AB07-5F11-4420-84D0-4D1F5465CB72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E19F3CE5-AC30-4B08-8415-DE1C8F7D64D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E19F3CE5-AC30-4B08-8415-DE1C8F7D64D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E19F3CE5-AC30-4B08-8415-DE1C8F7D64D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE7AB07-5F11-4420-84D0-4D1F5465CB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE7AB07-5F11-4420-84D0-4D1F5465CB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE7AB07-5F11-4420-84D0-4D1F5465CB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE7AB07-5F11-4420-84D0-4D1F5465CB72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
