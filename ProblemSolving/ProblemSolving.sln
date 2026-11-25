@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petya and Strings", "Petya 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Football", "Football\Football.csproj", "{610EFAFE-BB97-4A58-9F56-9BD8A1445AA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpful Maths", "Helpful Maths\Helpful Maths.csproj", "{571AEFDB-C4CF-4B27-9225-DE47C02F152D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{610EFAFE-BB97-4A58-9F56-9BD8A1445AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{610EFAFE-BB97-4A58-9F56-9BD8A1445AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{610EFAFE-BB97-4A58-9F56-9BD8A1445AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{571AEFDB-C4CF-4B27-9225-DE47C02F152D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{571AEFDB-C4CF-4B27-9225-DE47C02F152D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{571AEFDB-C4CF-4B27-9225-DE47C02F152D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{571AEFDB-C4CF-4B27-9225-DE47C02F152D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
